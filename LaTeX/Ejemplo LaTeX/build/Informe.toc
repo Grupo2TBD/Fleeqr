@@ -1,0 +1,39 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {spanish}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\IeC {\'I}NDICE DE FIGURAS}{v}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{CAP\IeC {\'I}TULO 1. \hspace {0.2cm} \uppercase {Introducci\IeC {\'o}n}}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{CAP\IeC {\'I}TULO 2. \hspace {0.2cm} \uppercase {Objetivos}}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{2.1 \hspace {0.5cm}\uppercase {Objetivo general}}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{2.2 \hspace {0.5cm}\uppercase {Objetivos espec\IeC {\'\i }ficos}}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{CAP\IeC {\'I}TULO 3. \hspace {0.2cm} \uppercase {Alcances}}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{3.1 \hspace {0.5cm}\uppercase {Herramientas utilizadas}}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{3.2 \hspace {0.5cm}\uppercase {Conocimiento necesario}}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{CAP\IeC {\'I}TULO 4. \hspace {0.2cm} \uppercase {Modelos de bases de datos}}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{4.1 \hspace {0.5cm}\uppercase {Modelo conceptual}}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{4.2 \hspace {0.5cm}\uppercase {Modelo f\IeC {\'\i }sico}}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{4.3 \hspace {0.5cm}\uppercase {Descripci\IeC {\'o}n de la normalizaci\IeC {\'o}n}}{16}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{CAP\IeC {\'I}TULO 5. \hspace {0.2cm} \uppercase {Descripci\IeC {\'o}n y funcionamiento de la API}}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{CAP\IeC {\'I}TULO 6. \hspace {0.2cm} \uppercase {Descripci\IeC {\'o}n de la aplicaci\IeC {\'o}n}}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{CAP\IeC {\'I}TULO 7. \hspace {0.2cm} \uppercase {Descripci\IeC {\'o}n de consultas SQL}}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{CAP\IeC {\'I}TULO 8. \hspace {0.2cm} \uppercase {Descripci\IeC {\'o}n de triggers utilizados}}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{CAP\IeC {\'I}TULO 9. \hspace {0.2cm} \uppercase {Conclusi\IeC {\'o}n}}{30}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{CAP\IeC {\'I}TULO 10. \hspace {0.2cm} \uppercase {Referencias}}{31}

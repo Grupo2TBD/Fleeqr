@@ -1,0 +1,23 @@
+\documentclass{memoria}
+
+
+\begin{document}
+
+\portada{Diseño de Bases de Datos: Laboratorio 2}{Elías González\\José Latapiatt\\ Ian Orellana}{Profesora: Carolina Bonacic \\ Ayudante: Fabián Arismendi}{\today}
+
+
+\indices
+\capitulo{Introducción}
+\seccion{Motivación}
+\capitulo{Objetivos}
+\seccion{Objetivo General}
+\seccion{Objetivos Específicos}
+\capitulo{Alcances}
+\capitulo{Modelos de Bases de Datos}
+\seccion{Modelo Conceptual}
+\seccion{Modelo Físico}
+\
+
+
+
+\end{document}
